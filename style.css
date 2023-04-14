@@ -263,7 +263,7 @@ color:white;
 .background-clip{
   position: absolute;
   right: 0;
-  bottom: -80px;
+  bottom: -150px;
   z-index: -1;
 }
 
