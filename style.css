@@ -259,6 +259,17 @@ color:white;
   justify-content: center;
 }
 
+/* merge video & section */
+.container::before{
+  content:'';
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(to top,black,transparent);
+  z-index: 100;
+}
+
 /* background video */
 .background-clip{
   position: absolute;
