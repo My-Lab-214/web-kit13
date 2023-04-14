@@ -257,6 +257,7 @@ color:white;
   display: flex;
   align-items: center;
   justify-content: center;
+  bottom: -60px;
 }
 
 /* merge video & section */
@@ -274,8 +275,7 @@ color:white;
 .background-clip{
   position: absolute;
   right: 0;
-  top: 50px;
-  bottom: 0;
+  bottom: -64px;
   z-index: -1;
 }
 
