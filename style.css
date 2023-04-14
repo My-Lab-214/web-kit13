@@ -992,8 +992,8 @@ backdrop-filter: blur(10.3px);
   }
 
   .about .row .image img{
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
 }
 
   .about .sec2{
@@ -1013,8 +1013,8 @@ backdrop-filter: blur(10.3px);
   }
 
   .service .row .image img{
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
 }
 
   .service .row .content{
@@ -1030,8 +1030,8 @@ backdrop-filter: blur(10.3px);
   }
 
   .contact .row .image img{
-    height: 250px;
-    width:250px;
+    height: 200px;
+    width:200px;
   }
 
   .contact .row .form-container{
@@ -1049,8 +1049,8 @@ backdrop-filter: blur(10.3px);
   }
 
   .faq .row .image img{
-      height: 250px;
-      width: 250px;
+      height: 200px;
+      width: 200px;
       padding-bottom: 0;
   }
 
